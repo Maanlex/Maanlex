@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Maanlex
-- 👀 I’m interested in Web Development
 - 🌱 I’m currently studying Computer Science
 
 
